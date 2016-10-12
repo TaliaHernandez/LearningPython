@@ -16,6 +16,20 @@ How to know if function? ()
 Comments # or ''' and ''' before and after comment block
 
 '''
+
+'''
+Commands I have learned  to create programs
+print("") to print direct strings (words in order and stuff) to smd line
+print() without quotes priints word substitutions
+i = 6 or whatever variable equals number assigns that variable
+can do math with f = i + p or anthing as long as i and p are assigned
+can sub words or phrases with variable assignment: greeting = "Don't 
+forget the quotes!" then print(greeting) no quotes
+for asking for user input stuff = raw_input("the question is") 
+etc then print(stuff)
+to make a number a statement number = raw_input to h = int(number) don't forget to make
+it a number again instead of string
+'''
 print("Test")
 print("Tali's first program") 
 print ("this is sorta fun I like it")
